@@ -1,3 +1,3 @@
 # Team0_hw1
 
-Colin Rundel - rundel@gmail.com
+Colin Rundel - cr173@stat.duke.edu
