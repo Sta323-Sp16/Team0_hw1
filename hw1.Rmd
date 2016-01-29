@@ -14,7 +14,8 @@ and your writeup matter for your overall grade.
 ```{r}
 FizzBuzz = function(v)
 {
-  stop("error")
+  for(i in x)
+    cat(i,'\n')
 }
 ```
 
